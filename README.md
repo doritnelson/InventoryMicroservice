@@ -6,4 +6,4 @@ This will store and manage items. Handles inventory of items, it stores and retr
 #![alt text](image-3.png)
 
 #UML sequence diagram
-#![alt text](image-4.png)
+#![alt text](image-4.)png
