@@ -37,6 +37,11 @@ const fs = require("fs");
 const response = JSON.parse(fs.readFileSync("response.json", "utf8"));
 console.log("Response received:", response);
 
+
+
+//Response
+{ "status": "Success", "message": "Item stored successfully." }
+
 ```
 
 # C) UML Sequence Diagram
