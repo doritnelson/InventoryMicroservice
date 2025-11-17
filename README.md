@@ -46,5 +46,5 @@ console.log("Response received:", response);
 
 # C) UML Sequence Diagram
 
-#![alt text](image-4.png)
+![alt text](image-4.png)
 
